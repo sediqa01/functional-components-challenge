@@ -1,6 +1,6 @@
 import React from "react";
 
-const Sidebar = () => {
+
   function Sidebar() {
     return (
         <div>
@@ -9,7 +9,6 @@ const Sidebar = () => {
             <a href = "#." target= "_blank">My Paintings</a>
         </div>
     )
-}
 }
 
 export default Sidebar;
